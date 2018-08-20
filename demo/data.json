@@ -1,0 +1,132 @@
+[
+	{
+	"ContactID":true,
+	"Name":"<p>Peter Nesbitt</p>",
+	"ContactCreated":"01/04/2017 08:23",
+	"ContactCompanyName":null,
+	"FirstPageViewed":"http://stage.simplea.com/Home?viewmode=0",
+	"Scoring":null,
+	"RecentActivities":null
+	},
+	{
+		"ContactID":true,
+		"Name":null,
+		"ContactCreated":"06/28/2018 01:43",
+		"ContactCompanyName":"AACSB International",
+		"FirstPageViewed":"/school-search",
+		"Scoring":null,
+		"RecentActivities":null
+	},
+	{
+		"ContactID":true,"Name":"<p>Alfredo Pizaña</p>",
+		"ContactCreated":"10/06/2017 12:39",
+		"ContactCompanyName":"simplea.com",
+		"FirstPageViewed":"/Home",
+		"Scoring":null,
+		"RecentActivities":null
+	},
+	{
+	"ContactID":true,
+	"Name":"<p>Peter Nesbitt</p>",
+	"ContactCreated":"01/04/2017 08:23",
+	"ContactCompanyName":null,
+	"FirstPageViewed":"http://stage.simplea.com/Home?viewmode=0",
+	"Scoring":null,
+	"RecentActivities":null
+	},
+	{
+		"ContactID":true,
+		"Name":null,
+		"ContactCreated":"06/28/2018 01:43",
+		"ContactCompanyName":"AACSB International",
+		"FirstPageViewed":"/school-search",
+		"Scoring":null,
+		"RecentActivities":null
+	},
+	{
+		"ContactID":true,"Name":"<p>Alfredo Pizaña</p>",
+		"ContactCreated":"10/06/2017 12:39",
+		"ContactCompanyName":"simplea.com",
+		"FirstPageViewed":"/Home",
+		"Scoring":null,
+		"RecentActivities":null
+	},
+	{
+	"ContactID":false,
+	"Name":"<p>Peter Nesbitt</p>",
+	"ContactCreated":"01/04/2017 08:23",
+	"ContactCompanyName":null,
+	"FirstPageViewed":"http://stage.simplea.com/Home?viewmode=0",
+	"Scoring":null,
+	"RecentActivities":null
+	},
+	{
+		"ContactID":true,
+		"Name":null,
+		"ContactCreated":"06/28/2018 01:43",
+		"ContactCompanyName":"AACSB International",
+		"FirstPageViewed":"/school-search",
+		"Scoring":null,
+		"RecentActivities":null
+	},
+	{
+		"ContactID":false,"Name":"<p>Alfredo Pizaña</p>",
+		"ContactCreated":"10/06/2017 12:39",
+		"ContactCompanyName":"simplea.com",
+		"FirstPageViewed":"/Home",
+		"Scoring":null,
+		"RecentActivities":null
+	},
+	{
+	"ContactID":true,
+	"Name":"<p>Peter Nesbitt</p>",
+	"ContactCreated":"01/04/2017 08:23",
+	"ContactCompanyName":null,
+	"FirstPageViewed":"http://stage.simplea.com/Home?viewmode=0",
+	"Scoring":null,
+	"RecentActivities":null
+	},
+	{
+		"ContactID":false,
+		"Name":null,
+		"ContactCreated":"06/28/2018 01:43",
+		"ContactCompanyName":"AACSB International",
+		"FirstPageViewed":"/school-search",
+		"Scoring":null,
+		"RecentActivities":null
+	},
+	{
+		"ContactID":true,"Name":"<p>Alfredo Pizaña</p>",
+		"ContactCreated":"10/06/2017 12:39",
+		"ContactCompanyName":"simplea.com",
+		"FirstPageViewed":"/Home",
+		"Scoring":null,
+		"RecentActivities":null
+	},
+	{
+	"ContactID":false,
+	"Name":"<p>Peter Nesbitt</p>",
+	"ContactCreated":"01/04/2017 08:23",
+	"ContactCompanyName":null,
+	"FirstPageViewed":"http://stage.simplea.com/Home?viewmode=0",
+	"Scoring":null,
+	"RecentActivities":null
+	},
+	{
+		"ContactID":true,
+		"Name":null,
+		"ContactCreated":"06/28/2018 01:43",
+		"ContactCompanyName":"AACSB International",
+		"FirstPageViewed":"/school-search",
+		"Scoring":null,
+		"RecentActivities":null
+	},
+	{
+		"ContactID":false,"Name":"<p>Alfredo Pizaña</p>",
+		"ContactCreated":"10/06/2017 12:39",
+		"ContactCompanyName":"simplea.com",
+		"FirstPageViewed":"/Home",
+		"Scoring":null,
+		"RecentActivities":null
+	}
+]

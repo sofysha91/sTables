@@ -1,0 +1,196 @@
+.stables_th{
+	width: 100%;
+	height: 100%;
+	position: relative;
+  	display: inline-flex;
+}
+td{
+	padding: 8px 8px 8px 23px;
+}
+.stables_header_sort{
+	width: 20px;
+	float: left;
+	position:absolute;
+	bottom: 0px;
+   }
+.stables_header{
+	float: right;
+	width: calc(100% - 30px);
+	position: relative;
+	bottom: 0;
+	left: 25px;
+	top: 0;
+	vertical-align: center;
+	font-size: 15px;
+	height: auto;
+
+}
+.s-controls{
+	margin-bottom: 30px;
+}
+.s-navigation-control{
+	float: right;
+}
+.sort_active{
+	color: #ACDA98;
+}
+
+.s-calendar{
+	background-color: #ACDA98;
+
+}
+.s-calendar-glyphicon{
+	background: #ACDA98;
+	border-left: none;
+}
+.div-hidden-text{
+	display: none;
+}
+.stables-no-records-text
+{
+	width: 100%;
+	text-align: center;
+	font-size: 16px;
+	color: #ACDA98;
+}
+.stables-btn-export
+{
+	background-color: #ACDA98;
+	float: right;
+	margin-left: 15px;
+}
+/*Toggle for boolean data */
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 15px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {display:none;}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 12px;
+  width: 12px;
+  left: 4px;
+  bottom: 2px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #ACDA98;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #ACDA98;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(20px);
+  -ms-transform: translateX(20px);
+  transform: translateX(20px);
+}
+.a-note{
+	color: #ACDA98;
+}
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+/*Modal*/
+	.modal.left .modal-dialog,
+	.modal.right .modal-dialog {
+		position: fixed;
+		margin: auto;
+		width: 320px;
+		height: 100%;
+		-webkit-transform: translate3d(0%, 0, 0);
+		    -ms-transform: translate3d(0%, 0, 0);
+		     -o-transform: translate3d(0%, 0, 0);
+		        transform: translate3d(0%, 0, 0);
+	}
+
+	.modal.left .modal-content,
+	.modal.right .modal-content {
+		height: 100%;
+		overflow-y: auto;
+	}
+	
+	.modal.left .modal-body,
+	.modal.right .modal-body {
+		padding: 15px 15px 80px;
+	}
+
+/*Left*/
+	.modal.left.fade .modal-dialog{
+		left: -320px;
+		-webkit-transition: opacity 0.3s linear, left 0.3s ease-out;
+		   -moz-transition: opacity 0.3s linear, left 0.3s ease-out;
+		     -o-transition: opacity 0.3s linear, left 0.3s ease-out;
+		        transition: opacity 0.3s linear, left 0.3s ease-out;
+	}
+	
+	.modal.left.fade.in .modal-dialog{
+		left: 0;
+	}
+        
+/*Right*/
+	.modal.right.fade .modal-dialog {
+		right: -320px;
+		-webkit-transition: opacity 0.3s linear, right 0.3s ease-out;
+		   -moz-transition: opacity 0.3s linear, right 0.3s ease-out;
+		     -o-transition: opacity 0.3s linear, right 0.3s ease-out;
+		        transition: opacity 0.3s linear, right 0.3s ease-out;
+	}
+	
+	.modal.right.fade.in .modal-dialog {
+		right: 0;
+	}
+
+/* ----- MODAL STYLE ----- */
+	.modal-content {
+		border-radius: 0;
+		border: none;
+	}
+
+	.modal-header {
+		border-bottom-color: #EEEEEE;
+		background-color: #FAFAFA;
+	}
+
+/*Reemplace Bootstrap */
+.glyphicon{
+	font-size: 20px;
+}
+.stables_header_sort .glyphicon {
+    display: inherit !important;
+    font-size: 10px;   
+}
+.glyphicon-calendar{
+	font-size: 1.2em;
+}
+
