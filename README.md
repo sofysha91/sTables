@@ -8,7 +8,7 @@ sTables uses Date Range Picker plugin to send date parameters and process the da
 
 ## How to use
 Download the plugin, unzip it and copy files to your website/application directory. Load files in the HTML document. Jquery is required
-
+```
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" /> 
     <link href="./src/jquery.stables.css" rel="Stylesheet" />
     <!-- Include jQuery, Moment.js and Date Range Picker's files along with stables in your webpage: -->    
@@ -16,9 +16,9 @@ Download the plugin, unzip it and copy files to your website/application directo
     <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
     <script src="./src/jquery.stables.js"></script>   
-   
+ ```  
 Add the HTML in the page (section tag is optional):
-
+```
     <section> <!-- Optional  -->
       <div class="s-tables">
           <div class="row s-controls"> <!-- if Bootstrap, use row class otherwise remove it -->
@@ -54,18 +54,18 @@ Add the HTML in the page (section tag is optional):
           </div>
       </div>
     </section>
-    
+```    
 Initialize the script 
-
+```
          <script type="text/javascript">
             $(document).ready(function () {
               // Create Table
               $('.s-table-data').stable({ url: './demo/data.json', columns:["Priority", "Notes", "Company", "Total Score", "Scoring Groups<br>(Primary Activities)", "Activities", "Created" ]  });         
             });    
         </script>
-        
+```        
 Complete option to change default values:
-
+```
         $.stable.defaultOptions = {
         url: '',
         data: '',
@@ -87,11 +87,11 @@ Complete option to change default values:
             }
         }       
     }   
-    
-
-Server Side
+```      
+## Server Side
 The data must be returned in strict JSON format, example :
-        [
+```        
+    [
         {
           "color": "black",
           "category": "hue",
@@ -128,5 +128,5 @@ The data must be returned in strict JSON format, example :
           }
          }
        ]
-       
+```  
   
