@@ -4,7 +4,7 @@ Table Plugin
 A lightning & powerful jQuery plugin and HTML 5 to process Tables easy by receiving a JSON Data Structure.
 sTables uses Date Range Picker plugin to send date parameters and process the data easily.
 
-2018 Sofy Hernandez - sofy.hernandeza@gmail.com
+&copy; 2018 Sofy Hernandez - sofy.hernandeza@gmail.com
 
 ## How to use
 Download the plugin, unzip it and copy files to your website/application directory. Load files in the HTML document. Jquery is required
