@@ -70,7 +70,7 @@ Complete option to change default values:
         url: '',
         data: '',
         sort: true,
-        columns:[],
+        columns:[], // For headers
         calendar: {
         	show:true,
         	startDate: moment().subtract(7, 'days'),
@@ -89,7 +89,7 @@ Complete option to change default values:
     }   
 ```      
 ## Server Side
-The data must be returned in strict JSON format, example :
+The data must be returned in strict JSON format that should match with the headers, example :
 ```        
     [
         {
