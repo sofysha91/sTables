@@ -131,7 +131,7 @@ The data must be returned in strict JSON format that should match with the heade
 ```  
 ## Supported Browsers
 
-Chrome, Firefox,Microsoft Edge, IE 7+, Opera 12+
+Chrome, Firefox, Microsoft Edge, IE 7+, Opera 12+
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
