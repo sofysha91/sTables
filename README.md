@@ -89,7 +89,7 @@ Complete option to change default values:
     }   
     
 
-##Server Side
+Server Side
 The data must be returned in strict JSON format, example :
         [
         {
